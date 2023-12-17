@@ -1,0 +1,2329 @@
+[{
+        "id": 9,
+        "code": "Autriche",
+        "default_name": "Autriche",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AT",
+        "flag_url": "https://static.mektoube.fr/flags/AT.png"
+    },
+    {
+        "id": 21,
+        "code": "Luxembourg",
+        "default_name": "Luxembourg",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LU",
+        "flag_url": "https://static.mektoube.fr/flags/LU.png"
+    },
+    {
+        "id": 34,
+        "code": "Somalie",
+        "default_name": "Somalie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SO",
+        "flag_url": "https://static.mektoube.fr/flags/SO.png"
+    },
+    {
+        "id": 47,
+        "code": "Monténégro",
+        "default_name": "Monténégro",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ME",
+        "flag_url": "https://static.mektoube.fr/flags/ME.png"
+    },
+    {
+        "id": 71,
+        "code": "Bangladesh",
+        "default_name": "Bangladesh",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BD",
+        "flag_url": "https://static.mektoube.fr/flags/BD.png"
+    },
+    {
+        "id": 97,
+        "code": "Paraguay",
+        "default_name": "Paraguay",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PY",
+        "flag_url": "https://static.mektoube.fr/flags/PY.png"
+    },
+    {
+        "id": 131,
+        "code": "Salvador",
+        "default_name": "Salvador",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SV",
+        "flag_url": "https://static.mektoube.fr/flags/SV.png"
+    },
+    {
+        "id": 139,
+        "code": "Madagascar",
+        "default_name": "Madagascar",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MG",
+        "flag_url": "https://static.mektoube.fr/flags/MG.png"
+    },
+    {
+        "id": 171,
+        "code": "Rwanda",
+        "default_name": "Rwanda",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "RW",
+        "flag_url": "https://static.mektoube.fr/flags/RW.png"
+    },
+    {
+        "id": 231,
+        "code": "Kirghizistan",
+        "default_name": "Kirghizistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KG",
+        "flag_url": "https://static.mektoube.fr/flags/KG.png"
+    },
+    {
+        "id": 235,
+        "code": "Nigeria",
+        "default_name": "Nigeria",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NG",
+        "flag_url": "https://static.mektoube.fr/flags/NG.png"
+    },
+    {
+        "id": 56,
+        "code": "Bolivie",
+        "default_name": "Bolivie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BO",
+        "flag_url": "https://static.mektoube.fr/flags/BO.png"
+    },
+    {
+        "id": 43,
+        "code": "Estonie",
+        "default_name": "Estonie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "EE",
+        "flag_url": "https://static.mektoube.fr/flags/EE.png"
+    },
+    {
+        "id": 69,
+        "code": "Andorre",
+        "default_name": "Andorre",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AD",
+        "flag_url": "https://static.mektoube.fr/flags/AD.png"
+    },
+    {
+        "id": 150,
+        "code": "Suisse",
+        "default_name": "Suisse",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CH",
+        "flag_url": "https://static.mektoube.fr/flags/CH.png"
+    },
+    {
+        "id": 197,
+        "code": "Cameroun",
+        "default_name": "Cameroun",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CM",
+        "flag_url": "https://static.mektoube.fr/flags/CM.png"
+    },
+    {
+        "id": 224,
+        "code": "Arménie",
+        "default_name": "Arménie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AM",
+        "flag_url": "https://static.mektoube.fr/flags/AM.png"
+    },
+    {
+        "id": 233,
+        "code": "Mali",
+        "default_name": "Mali",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ML",
+        "flag_url": "https://static.mektoube.fr/flags/ML.png"
+    },
+    {
+        "id": 242,
+        "code": "République tchèque",
+        "default_name": "République tchèque",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CZ",
+        "flag_url": "https://static.mektoube.fr/flags/CZ.png"
+    },
+    {
+        "id": 76,
+        "code": "Hongrie",
+        "default_name": "Hongrie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "HU",
+        "flag_url": "https://static.mektoube.fr/flags/HU.png"
+    },
+    {
+        "id": 79,
+        "code": "Namibie",
+        "default_name": "Namibie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NA",
+        "flag_url": "https://static.mektoube.fr/flags/NA.png"
+    },
+    {
+        "id": 109,
+        "code": "Niger",
+        "default_name": "Niger",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NE",
+        "flag_url": "https://static.mektoube.fr/flags/NE.png"
+    },
+    {
+        "id": 142,
+        "code": "Oman",
+        "default_name": "Oman",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "OM",
+        "flag_url": "https://static.mektoube.fr/flags/OM.png"
+    },
+    {
+        "id": 146,
+        "code": "Yémen",
+        "default_name": "Yémen",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "YE",
+        "flag_url": "https://static.mektoube.fr/flags/YE.png"
+    },
+    {
+        "id": 179,
+        "code": "Bénin",
+        "default_name": "Bénin",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BJ",
+        "flag_url": "https://static.mektoube.fr/flags/BJ.png"
+    },
+    {
+        "id": 196,
+        "code": "Barbade",
+        "default_name": "Barbade",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BB",
+        "flag_url": "https://static.mektoube.fr/flags/BB.png"
+    },
+    {
+        "id": 219,
+        "code": "Malte",
+        "default_name": "Malte",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MT",
+        "flag_url": "https://static.mektoube.fr/flags/MT.png"
+    },
+    {
+        "id": 222,
+        "code": "Sénégal",
+        "default_name": "Sénégal",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SN",
+        "flag_url": "https://static.mektoube.fr/flags/SN.png"
+    },
+    {
+        "id": 13,
+        "code": "Costa Rica",
+        "default_name": "Costa Rica",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CR",
+        "flag_url": "https://static.mektoube.fr/flags/CR.png"
+    },
+    {
+        "id": 102,
+        "code": "Afghanistan",
+        "default_name": "Afghanistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AF",
+        "flag_url": "https://static.mektoube.fr/flags/AF.png"
+    },
+    {
+        "id": 115,
+        "code": "Argentine",
+        "default_name": "Argentine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AR",
+        "flag_url": "https://static.mektoube.fr/flags/AR.png"
+    },
+    {
+        "id": 121,
+        "code": "Égypte",
+        "default_name": "Égypte",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "EG",
+        "flag_url": "https://static.mektoube.fr/flags/EG.png"
+    },
+    {
+        "id": 144,
+        "code": "Vatican",
+        "default_name": "Vatican",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "VA",
+        "flag_url": "https://static.mektoube.fr/flags/VA.png"
+    },
+    {
+        "id": 149,
+        "code": "RDC",
+        "default_name": "RDC",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CD",
+        "flag_url": "https://static.mektoube.fr/flags/CD.png"
+    },
+    {
+        "id": 162,
+        "code": "Kiribati",
+        "default_name": "Kiribati",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KI",
+        "flag_url": "https://static.mektoube.fr/flags/KI.png"
+    },
+    {
+        "id": 186,
+        "code": "Cambodge",
+        "default_name": "Cambodge",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KH",
+        "flag_url": "https://static.mektoube.fr/flags/KH.png"
+    },
+    {
+        "id": 204,
+        "code": "Kazakhstan",
+        "default_name": "Kazakhstan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KZ",
+        "flag_url": "https://static.mektoube.fr/flags/KZ.png"
+    },
+    {
+        "id": 214,
+        "code": "Laos",
+        "default_name": "Laos",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LA",
+        "flag_url": "https://static.mektoube.fr/flags/LA.png"
+    },
+    {
+        "id": 19,
+        "code": "Liban",
+        "default_name": "Liban",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LB",
+        "flag_url": "https://static.mektoube.fr/flags/LB.png"
+    },
+    {
+        "id": 25,
+        "code": "Philippines",
+        "default_name": "Philippines",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PH",
+        "flag_url": "https://static.mektoube.fr/flags/PH.png"
+    },
+    {
+        "id": 36,
+        "code": "Thaïlande",
+        "default_name": "Thaïlande",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TH",
+        "flag_url": "https://static.mektoube.fr/flags/TH.png"
+    },
+    {
+        "id": 38,
+        "code": "Bulgarie",
+        "default_name": "Bulgarie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BG",
+        "flag_url": "https://static.mektoube.fr/flags/BG.png"
+    },
+    {
+        "id": 91,
+        "code": "Gambie",
+        "default_name": "Gambie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GM",
+        "flag_url": "https://static.mektoube.fr/flags/GM.png"
+    },
+    {
+        "id": 95,
+        "code": "Islande",
+        "default_name": "Islande",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IS",
+        "flag_url": "https://static.mektoube.fr/flags/IS.png"
+    },
+    {
+        "id": 99,
+        "code": "Saint-Vincent-et-les-Grenadines",
+        "default_name": "Saint-Vincent-et-les-Grenadines",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "VC",
+        "flag_url": "https://static.mektoube.fr/flags/VC.png"
+    },
+    {
+        "id": 116,
+        "code": "Australie",
+        "default_name": "Australie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AU",
+        "flag_url": "https://static.mektoube.fr/flags/AU.png"
+    },
+    {
+        "id": 143,
+        "code": "Turkménistan",
+        "default_name": "Turkménistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TM",
+        "flag_url": "https://static.mektoube.fr/flags/TM.png"
+    },
+    {
+        "id": 188,
+        "code": "Corée du Sud",
+        "default_name": "Corée du Sud",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KR",
+        "flag_url": "https://static.mektoube.fr/flags/KR.png"
+    },
+    {
+        "id": 191,
+        "code": "Macédoine du Nord",
+        "default_name": "Macédoine du Nord",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MK",
+        "flag_url": "https://static.mektoube.fr/flags/MK.png"
+    },
+    {
+        "id": 216,
+        "code": "Mongolie",
+        "default_name": "Mongolie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MN",
+        "flag_url": "https://static.mektoube.fr/flags/MN.png"
+    },
+    {
+        "id": 67,
+        "code": "Vanuatu",
+        "default_name": "Vanuatu",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "VU",
+        "flag_url": "https://static.mektoube.fr/flags/VU.png"
+    },
+    {
+        "id": 89,
+        "code": "Biélorussie",
+        "default_name": "Biélorussie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BY",
+        "flag_url": "https://static.mektoube.fr/flags/BY.png"
+    },
+    {
+        "id": 98,
+        "code": "Singapour",
+        "default_name": "Singapour",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SG",
+        "flag_url": "https://static.mektoube.fr/flags/SG.png"
+    },
+    {
+        "id": 107,
+        "code": "Kenya",
+        "default_name": "Kenya",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KE",
+        "flag_url": "https://static.mektoube.fr/flags/KE.png"
+    },
+    {
+        "id": 124,
+        "code": "Gabon",
+        "default_name": "Gabon",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GA",
+        "flag_url": "https://static.mektoube.fr/flags/GA.png"
+    },
+    {
+        "id": 129,
+        "code": "Papouasie-Nouvelle Guinée",
+        "default_name": "Papouasie-Nouvelle Guinée",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PG",
+        "flag_url": "https://static.mektoube.fr/flags/PG.png"
+    },
+    {
+        "id": 154,
+        "code": "Népal",
+        "default_name": "Népal",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NP",
+        "flag_url": "https://static.mektoube.fr/flags/NP.png"
+    },
+    {
+        "id": 176,
+        "code": "Tadjikistan",
+        "default_name": "Tadjikistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TJ",
+        "flag_url": "https://static.mektoube.fr/flags/TJ.png"
+    },
+    {
+        "id": 215,
+        "code": "Liberia",
+        "default_name": "Liberia",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LR",
+        "flag_url": "https://static.mektoube.fr/flags/LR.png"
+    },
+    {
+        "id": 221,
+        "code": "Qatar",
+        "default_name": "Qatar",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "QA",
+        "flag_url": "https://static.mektoube.fr/flags/QA.png"
+    },
+    {
+        "id": 241,
+        "code": "Cap-Vert",
+        "default_name": "Cap-Vert",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CV",
+        "flag_url": "https://static.mektoube.fr/flags/CV.png"
+    },
+    {
+        "id": 18,
+        "code": "Jamaïque",
+        "default_name": "Jamaïque",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "JM",
+        "flag_url": "https://static.mektoube.fr/flags/JM.png"
+    },
+    {
+        "id": 51,
+        "code": "São Tomé-et-Príncipe",
+        "default_name": "São Tomé-et-Príncipe",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ST",
+        "flag_url": "https://static.mektoube.fr/flags/ST.png"
+    },
+    {
+        "id": 55,
+        "code": "Émirats Arabes Unis",
+        "default_name": "Émirats Arabes Unis",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AE",
+        "flag_url": "https://static.mektoube.fr/flags/AE.png"
+    },
+    {
+        "id": 72,
+        "code": "Allemagne",
+        "default_name": "Allemagne",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DE",
+        "flag_url": "https://static.mektoube.fr/flags/DE.png"
+    },
+    {
+        "id": 80,
+        "code": "Pakistan",
+        "default_name": "Pakistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PK",
+        "flag_url": "https://static.mektoube.fr/flags/PK.png"
+    },
+    {
+        "id": 86,
+        "code": "États-Unis",
+        "default_name": "États-Unis",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "US",
+        "flag_url": "https://static.mektoube.fr/flags/US.png"
+    },
+    {
+        "id": 94,
+        "code": "Israël",
+        "default_name": "Israël",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IL",
+        "flag_url": "https://static.mektoube.fr/flags/IL.png"
+    },
+    {
+        "id": 122,
+        "code": "Fidji",
+        "default_name": "Fidji",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "FJ",
+        "flag_url": "https://static.mektoube.fr/flags/FJ.png"
+    },
+    {
+        "id": 147,
+        "code": "Bosnie-Herzégovine",
+        "default_name": "Bosnie-Herzégovine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BA",
+        "flag_url": "https://static.mektoube.fr/flags/BA.png"
+    },
+    {
+        "id": 167,
+        "code": "Nouvelle-Zélande",
+        "default_name": "Nouvelle-Zélande",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NZ",
+        "flag_url": "https://static.mektoube.fr/flags/NZ.png"
+    },
+    {
+        "id": 170,
+        "code": "Russie",
+        "default_name": "Russie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "RU",
+        "flag_url": "https://static.mektoube.fr/flags/RU.png"
+    },
+    {
+        "id": 207,
+        "code": "Tuvalu",
+        "default_name": "Tuvalu",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TV",
+        "flag_url": "https://static.mektoube.fr/flags/TV.png"
+    },
+    {
+        "id": 210,
+        "code": "Belize",
+        "default_name": "Belize",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BZ",
+        "flag_url": "https://static.mektoube.fr/flags/BZ.png"
+    },
+    {
+        "id": 234,
+        "code": "Maldives",
+        "default_name": "Maldives",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MV",
+        "flag_url": "https://static.mektoube.fr/flags/MV.png"
+    },
+    {
+        "id": 12,
+        "code": "Botswana",
+        "default_name": "Botswana",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BW",
+        "flag_url": "https://static.mektoube.fr/flags/BW.png"
+    },
+    {
+        "id": 42,
+        "code": "Équateur",
+        "default_name": "Équateur",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "EC",
+        "flag_url": "https://static.mektoube.fr/flags/EC.png"
+    },
+    {
+        "id": 59,
+        "code": "Irlande",
+        "default_name": "Irlande",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IE",
+        "flag_url": "https://static.mektoube.fr/flags/IE.png"
+    },
+    {
+        "id": 78,
+        "code": "Mexique",
+        "default_name": "Mexique",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MX",
+        "flag_url": "https://static.mektoube.fr/flags/MX.png"
+    },
+    {
+        "id": 127,
+        "code": "Italie",
+        "default_name": "Italie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IT",
+        "flag_url": "https://static.mektoube.fr/flags/IT.png"
+    },
+    {
+        "id": 135,
+        "code": "Angola",
+        "default_name": "Angola",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AO",
+        "flag_url": "https://static.mektoube.fr/flags/AO.png"
+    },
+    {
+        "id": 173,
+        "code": "Serbie",
+        "default_name": "Serbie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "RS",
+        "flag_url": "https://static.mektoube.fr/flags/RS.png"
+    },
+    {
+        "id": 174,
+        "code": "Sud-Soudan",
+        "default_name": "Sud-Soudan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SS",
+        "flag_url": "https://static.mektoube.fr/flags/SS.png"
+    },
+    {
+        "id": 244,
+        "code": "Liechtenstein",
+        "default_name": "Liechtenstein",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LI",
+        "flag_url": "https://static.mektoube.fr/flags/LI.png"
+    },
+    {
+        "id": 40,
+        "code": "Centrafrique",
+        "default_name": "Centrafrique",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CF",
+        "flag_url": "https://static.mektoube.fr/flags/CF.png"
+    },
+    {
+        "id": 64,
+        "code": "Pologne",
+        "default_name": "Pologne",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PL",
+        "flag_url": "https://static.mektoube.fr/flags/PL.png"
+    },
+    {
+        "id": 70,
+        "code": "Antigua et Barbuda",
+        "default_name": "Antigua et Barbuda",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AG",
+        "flag_url": "https://static.mektoube.fr/flags/AG.png"
+    },
+    {
+        "id": 77,
+        "code": "Inde",
+        "default_name": "Inde",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IN",
+        "flag_url": "https://static.mektoube.fr/flags/IN.png"
+    },
+    {
+        "id": 104,
+        "code": "Chine",
+        "default_name": "Chine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CN",
+        "flag_url": "https://static.mektoube.fr/flags/CN.png"
+    },
+    {
+        "id": 138,
+        "code": "République Dominicaine",
+        "default_name": "République Dominicaine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DO",
+        "flag_url": "https://static.mektoube.fr/flags/DO.png"
+    },
+    {
+        "id": 140,
+        "code": "Myanmar",
+        "default_name": "Myanmar",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MM",
+        "flag_url": "https://static.mektoube.fr/flags/MM.png"
+    },
+    {
+        "id": 152,
+        "code": "Guyana",
+        "default_name": "Guyana",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GY",
+        "flag_url": "https://static.mektoube.fr/flags/GY.png"
+    },
+    {
+        "id": 153,
+        "code": "Irak",
+        "default_name": "Irak",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IQ",
+        "flag_url": "https://static.mektoube.fr/flags/IQ.png"
+    },
+    {
+        "id": 164,
+        "code": "Monaco",
+        "default_name": "Monaco",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MC",
+        "flag_url": "https://static.mektoube.fr/flags/MC.png"
+    },
+    {
+        "id": 187,
+        "code": "Comores",
+        "default_name": "Comores",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KM",
+        "flag_url": "https://static.mektoube.fr/flags/KM.png"
+    },
+    {
+        "id": 205,
+        "code": "Lituanie",
+        "default_name": "Lituanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LT",
+        "flag_url": "https://static.mektoube.fr/flags/LT.png"
+    },
+    {
+        "id": 209,
+        "code": "Zimbabwe",
+        "default_name": "Zimbabwe",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ZW",
+        "flag_url": "https://static.mektoube.fr/flags/ZW.png"
+    },
+    {
+        "id": 230,
+        "code": "Honduras",
+        "default_name": "Honduras",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "HN",
+        "flag_url": "https://static.mektoube.fr/flags/HN.png"
+    },
+    {
+        "id": 6,
+        "code": "Albanie",
+        "default_name": "Albanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AL",
+        "flag_url": "https://static.mektoube.fr/flags/AL.png"
+    },
+    {
+        "id": 37,
+        "code": "Slovaquie",
+        "default_name": "Slovaquie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SK",
+        "flag_url": "https://static.mektoube.fr/flags/SK.png"
+    },
+    {
+        "id": 60,
+        "code": "Grèce",
+        "default_name": "Grèce",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GR",
+        "flag_url": "https://static.mektoube.fr/flags/GR.png"
+    },
+    {
+        "id": 65,
+        "code": "Portugal",
+        "default_name": "Portugal",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PT",
+        "flag_url": "https://static.mektoube.fr/flags/PT.png"
+    },
+    {
+        "id": 66,
+        "code": "Ouganda",
+        "default_name": "Ouganda",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "UG",
+        "flag_url": "https://static.mektoube.fr/flags/UG.png"
+    },
+    {
+        "id": 73,
+        "code": "Danemark",
+        "default_name": "Danemark",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DK",
+        "flag_url": "https://static.mektoube.fr/flags/DK.png"
+    },
+    {
+        "id": 85,
+        "code": "Timor Oriental",
+        "default_name": "Timor Oriental",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TL",
+        "flag_url": "https://static.mektoube.fr/flags/TL.png"
+    },
+    {
+        "id": 88,
+        "code": "Samoa",
+        "default_name": "Samoa",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "WS",
+        "flag_url": "https://static.mektoube.fr/flags/WS.png"
+    },
+    {
+        "id": 137,
+        "code": "Bahamas",
+        "default_name": "Bahamas",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BS",
+        "flag_url": "https://static.mektoube.fr/flags/BS.png"
+    },
+    {
+        "id": 158,
+        "code": "Côte d'Ivoire",
+        "default_name": "Côte d'Ivoire",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CI",
+        "flag_url": "https://static.mektoube.fr/flags/CI.png"
+    },
+    {
+        "id": 183,
+        "code": "Finlande",
+        "default_name": "Finlande",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "FI",
+        "flag_url": "https://static.mektoube.fr/flags/FI.png"
+    },
+    {
+        "id": 192,
+        "code": "Îles Salomon",
+        "default_name": "Îles Salomon",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SB",
+        "flag_url": "https://static.mektoube.fr/flags/SB.png"
+    },
+    {
+        "id": 218,
+        "code": "Lesotho",
+        "default_name": "Lesotho",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LS",
+        "flag_url": "https://static.mektoube.fr/flags/LS.png"
+    },
+    {
+        "id": 238,
+        "code": "Azerbaïdjan",
+        "default_name": "Azerbaïdjan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "AZ",
+        "flag_url": "https://static.mektoube.fr/flags/AZ.png"
+    },
+    {
+        "id": 7,
+        "code": "Dominique",
+        "default_name": "Dominique",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DM",
+        "flag_url": "https://static.mektoube.fr/flags/DM.png"
+    },
+    {
+        "id": 31,
+        "code": "Mozambique",
+        "default_name": "Mozambique",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MZ",
+        "flag_url": "https://static.mektoube.fr/flags/MZ.png"
+    },
+    {
+        "id": 50,
+        "code": "Slovénie",
+        "default_name": "Slovénie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SI",
+        "flag_url": "https://static.mektoube.fr/flags/SI.png"
+    },
+    {
+        "id": 93,
+        "code": "Haïti",
+        "default_name": "Haïti",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "HT",
+        "flag_url": "https://static.mektoube.fr/flags/HT.png"
+    },
+    {
+        "id": 128,
+        "code": "Mauritanie",
+        "default_name": "Mauritanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MR",
+        "flag_url": "https://static.mektoube.fr/flags/MR.png"
+    },
+    {
+        "id": 159,
+        "code": "Chili",
+        "default_name": "Chili",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CL",
+        "flag_url": "https://static.mektoube.fr/flags/CL.png"
+    },
+    {
+        "id": 175,
+        "code": "Syrie",
+        "default_name": "Syrie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SY",
+        "flag_url": "https://static.mektoube.fr/flags/SY.png"
+    },
+    {
+        "id": 182,
+        "code": "Éthiopie",
+        "default_name": "Éthiopie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ET",
+        "flag_url": "https://static.mektoube.fr/flags/ET.png"
+    },
+    {
+        "id": 190,
+        "code": "Lettonie",
+        "default_name": "Lettonie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LV",
+        "flag_url": "https://static.mektoube.fr/flags/LV.png"
+    },
+    {
+        "id": 212,
+        "code": "Djibouti",
+        "default_name": "Djibouti",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DJ",
+        "flag_url": "https://static.mektoube.fr/flags/DJ.png"
+    },
+    {
+        "id": 239,
+        "code": "Brésil",
+        "default_name": "Brésil",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BR",
+        "flag_url": "https://static.mektoube.fr/flags/BR.png"
+    },
+    {
+        "id": 248,
+        "code": "Sierra Leone",
+        "default_name": "Sierra Leone",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SL",
+        "flag_url": "https://static.mektoube.fr/flags/SL.png"
+    },
+    {
+        "id": 22,
+        "code": "Moldavie",
+        "default_name": "Moldavie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MD",
+        "flag_url": "https://static.mektoube.fr/flags/MD.png"
+    },
+    {
+        "id": 53,
+        "code": "Zambie",
+        "default_name": "Zambie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ZM",
+        "flag_url": "https://static.mektoube.fr/flags/ZM.png"
+    },
+    {
+        "id": 57,
+        "code": "Géorgie",
+        "default_name": "Géorgie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GE",
+        "flag_url": "https://static.mektoube.fr/flags/GE.png"
+    },
+    {
+        "id": 62,
+        "code": "Malaisie",
+        "default_name": "Malaisie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MY",
+        "flag_url": "https://static.mektoube.fr/flags/MY.png"
+    },
+    {
+        "id": 92,
+        "code": "Guinée",
+        "default_name": "Guinée",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GN",
+        "flag_url": "https://static.mektoube.fr/flags/GN.png"
+    },
+    {
+        "id": 96,
+        "code": "Maurice",
+        "default_name": "Maurice",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MU",
+        "flag_url": "https://static.mektoube.fr/flags/MU.png"
+    },
+    {
+        "id": 100,
+        "code": "Afrique du Sud",
+        "default_name": "Afrique du Sud",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ZA",
+        "flag_url": "https://static.mektoube.fr/flags/ZA.png"
+    },
+    {
+        "id": 119,
+        "code": "Cuba",
+        "default_name": "Cuba",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CU",
+        "flag_url": "https://static.mektoube.fr/flags/CU.png"
+    },
+    {
+        "id": 125,
+        "code": "Érythrée",
+        "default_name": "Érythrée",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ER",
+        "flag_url": "https://static.mektoube.fr/flags/ER.png"
+    },
+    {
+        "id": 133,
+        "code": "Ukraine",
+        "default_name": "Ukraine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "UA",
+        "flag_url": "https://static.mektoube.fr/flags/UA.png"
+    },
+    {
+        "id": 172,
+        "code": "Soudan",
+        "default_name": "Soudan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SD",
+        "flag_url": "https://static.mektoube.fr/flags/SD.png"
+    },
+    {
+        "id": 180,
+        "code": "Bahreïn",
+        "default_name": "Bahreïn",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BH",
+        "flag_url": "https://static.mektoube.fr/flags/BH.png"
+    },
+    {
+        "id": 243,
+        "code": "Japon",
+        "default_name": "Japon",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "JP",
+        "flag_url": "https://static.mektoube.fr/flags/JP.png"
+    },
+    {
+        "id": 15,
+        "code": "Guinée équatoriale",
+        "default_name": "Guinée équatoriale",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GQ",
+        "flag_url": "https://static.mektoube.fr/flags/GQ.png"
+    },
+    {
+        "id": 26,
+        "code": "Seychelles",
+        "default_name": "Seychelles",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SC",
+        "flag_url": "https://static.mektoube.fr/flags/SC.png"
+    },
+    {
+        "id": 81,
+        "code": "Palau",
+        "default_name": "Palau",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PW",
+        "flag_url": "https://static.mektoube.fr/flags/PW.png"
+    },
+    {
+        "id": 110,
+        "code": "Pays-Bas",
+        "default_name": "Pays-Bas",
+        "highlight_countries": [
+            "MA",
+            "TR",
+            "IQ"
+        ],
+        "country_code": "NL",
+        "flag_url": "https://static.mektoube.fr/flags/NL.png"
+    },
+    {
+        "id": 114,
+        "code": "Tchad",
+        "default_name": "Tchad",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TD",
+        "flag_url": "https://static.mektoube.fr/flags/TD.png"
+    },
+    {
+        "id": 118,
+        "code": "Burundi",
+        "default_name": "Burundi",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BI",
+        "flag_url": "https://static.mektoube.fr/flags/BI.png"
+    },
+    {
+        "id": 141,
+        "code": "Nicaragua",
+        "default_name": "Nicaragua",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NI",
+        "flag_url": "https://static.mektoube.fr/flags/NI.png"
+    },
+    {
+        "id": 177,
+        "code": "Vénézuéla",
+        "default_name": "Vénézuéla",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "VE",
+        "flag_url": "https://static.mektoube.fr/flags/VE.png"
+    },
+    {
+        "id": 211,
+        "code": "Colombie",
+        "default_name": "Colombie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CO",
+        "flag_url": "https://static.mektoube.fr/flags/CO.png"
+    },
+    {
+        "id": 229,
+        "code": "Guinée-Bissau",
+        "default_name": "Guinée-Bissau",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GW",
+        "flag_url": "https://static.mektoube.fr/flags/GW.png"
+    },
+    {
+        "id": 232,
+        "code": "Sainte-Lucie",
+        "default_name": "Sainte-Lucie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LC",
+        "flag_url": "https://static.mektoube.fr/flags/LC.png"
+    },
+    {
+        "id": 245,
+        "code": "Libye",
+        "default_name": "Libye",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LY",
+        "flag_url": "https://static.mektoube.fr/flags/LY.png"
+    },
+    {
+        "id": 14,
+        "code": "Chypre",
+        "default_name": "Chypre",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CY",
+        "flag_url": "https://static.mektoube.fr/flags/CY.png"
+    },
+    {
+        "id": 10,
+        "code": "Belgique",
+        "default_name": "Belgique",
+        "highlight_countries": [
+            "MA",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BE",
+        "flag_url": "https://static.mektoube.fr/flags/BE.png"
+    },
+    {
+        "id": 17,
+        "code": "Iran",
+        "default_name": "Iran",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "IR",
+        "flag_url": "https://static.mektoube.fr/flags/IR.png"
+    },
+    {
+        "id": 24,
+        "code": "Panama",
+        "default_name": "Panama",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PA",
+        "flag_url": "https://static.mektoube.fr/flags/PA.png"
+    },
+    {
+        "id": 27,
+        "code": "Turquie",
+        "default_name": "Turquie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TR",
+        "flag_url": "https://static.mektoube.fr/flags/TR.png"
+    },
+    {
+        "id": 45,
+        "code": "Ghana",
+        "default_name": "Ghana",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GH",
+        "flag_url": "https://static.mektoube.fr/flags/GH.png"
+    },
+    {
+        "id": 87,
+        "code": "Uruguay",
+        "default_name": "Uruguay",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "UY",
+        "flag_url": "https://static.mektoube.fr/flags/UY.png"
+    },
+    {
+        "id": 108,
+        "code": "Corée du Nord",
+        "default_name": "Corée du Nord",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KP",
+        "flag_url": "https://static.mektoube.fr/flags/KP.png"
+    },
+    {
+        "id": 113,
+        "code": "Palestine",
+        "default_name": "Palestine",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PS",
+        "flag_url": "https://static.mektoube.fr/flags/PS.png"
+    },
+    {
+        "id": 132,
+        "code": "Trinidad et Tobago",
+        "default_name": "Trinidad et Tobago",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TT",
+        "flag_url": "https://static.mektoube.fr/flags/TT.png"
+    },
+    {
+        "id": 157,
+        "code": "Brunéi Darussalam",
+        "default_name": "Brunéi Darussalam",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BN",
+        "flag_url": "https://static.mektoube.fr/flags/BN.png"
+    },
+    {
+        "id": 193,
+        "code": "Togo",
+        "default_name": "Togo",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TG",
+        "flag_url": "https://static.mektoube.fr/flags/TG.png"
+    },
+    {
+        "id": 200,
+        "code": "Royaume-Uni",
+        "default_name": "Royaume-Uni",
+        "highlight_countries": [
+            "PK",
+            "BD",
+            "IN"
+        ],
+        "country_code": "GB",
+        "flag_url": "https://static.mektoube.fr/flags/GB.png"
+    },
+    {
+        "id": 202,
+        "code": "Jordanie",
+        "default_name": "Jordanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "JO",
+        "flag_url": "https://static.mektoube.fr/flags/JO.png"
+    },
+    {
+        "id": 246,
+        "code": "Malawi",
+        "default_name": "Malawi",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MW",
+        "flag_url": "https://static.mektoube.fr/flags/MW.png"
+    },
+    {
+        "id": 247,
+        "code": "Nauru",
+        "default_name": "Nauru",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NR",
+        "flag_url": "https://static.mektoube.fr/flags/NR.png"
+    },
+    {
+        "id": 251,
+        "code": "Tonga",
+        "default_name": "Tonga",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TO",
+        "flag_url": "https://static.mektoube.fr/flags/TO.png"
+    },
+    {
+        "id": 29,
+        "code": "Koweït",
+        "default_name": "Koweït",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KW",
+        "flag_url": "https://static.mektoube.fr/flags/KW.png"
+    },
+    {
+        "id": 44,
+        "code": "Grenade",
+        "default_name": "Grenade",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GD",
+        "flag_url": "https://static.mektoube.fr/flags/GD.png"
+    },
+    {
+        "id": 105,
+        "code": "France",
+        "default_name": "France",
+        "highlight_countries": [
+            "DZ",
+            "MA",
+            "TN"
+        ],
+        "country_code": "FR",
+        "flag_url": "https://static.mektoube.fr/flags/FR.png"
+    },
+    {
+        "id": 130,
+        "code": "Roumanie",
+        "default_name": "Roumanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "RO",
+        "flag_url": "https://static.mektoube.fr/flags/RO.png"
+    },
+    {
+        "id": 155,
+        "code": "Vietnam",
+        "default_name": "Vietnam",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "VN",
+        "flag_url": "https://static.mektoube.fr/flags/VN.png"
+    },
+    {
+        "id": 181,
+        "code": "Espagne",
+        "default_name": "Espagne",
+        "highlight_countries": [
+            "MA",
+            "PK",
+            "ES"
+        ],
+        "country_code": "ES",
+        "flag_url": "https://static.mektoube.fr/flags/ES.png"
+    },
+    {
+        "id": 184,
+        "code": "Indonésie",
+        "default_name": "Indonésie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "ID",
+        "flag_url": "https://static.mektoube.fr/flags/ID.png"
+    },
+    {
+        "id": 194,
+        "code": "Tanzanie",
+        "default_name": "Tanzanie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TZ",
+        "flag_url": "https://static.mektoube.fr/flags/TZ.png"
+    },
+    {
+        "id": 206,
+        "code": "Pérou",
+        "default_name": "Pérou",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "PE",
+        "flag_url": "https://static.mektoube.fr/flags/PE.png"
+    },
+    {
+        "id": 225,
+        "code": "Bhoutan",
+        "default_name": "Bhoutan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BT",
+        "flag_url": "https://static.mektoube.fr/flags/BT.png"
+    },
+    {
+        "id": 236,
+        "code": "Norvège",
+        "default_name": "Norvège",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "NO",
+        "flag_url": "https://static.mektoube.fr/flags/NO.png"
+    },
+    {
+        "id": 237,
+        "code": "Surinam",
+        "default_name": "Surinam",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SR",
+        "flag_url": "https://static.mektoube.fr/flags/SR.png"
+    },
+    {
+        "id": 20,
+        "code": "Sri Lanka",
+        "default_name": "Sri Lanka",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "LK",
+        "flag_url": "https://static.mektoube.fr/flags/LK.png"
+    },
+    {
+        "id": 23,
+        "code": "Marshall Islands",
+        "default_name": "Marshall Islands",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MH",
+        "flag_url": "https://static.mektoube.fr/flags/MH.png"
+    },
+    {
+        "id": 33,
+        "code": "Arabie saoudite",
+        "default_name": "Arabie saoudite",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SA",
+        "flag_url": "https://static.mektoube.fr/flags/SA.png"
+    },
+    {
+        "id": 49,
+        "code": "Suède",
+        "default_name": "Suède",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SE",
+        "flag_url": "https://static.mektoube.fr/flags/SE.png"
+    },
+    {
+        "id": 52,
+        "code": "Swaziland",
+        "default_name": "Swaziland",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SZ",
+        "flag_url": "https://static.mektoube.fr/flags/SZ.png"
+    },
+    {
+        "id": 106,
+        "code": "Croatie",
+        "default_name": "Croatie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "HR",
+        "flag_url": "https://static.mektoube.fr/flags/HR.png"
+    },
+    {
+        "id": 136,
+        "code": "Burkina Faso",
+        "default_name": "Burkina Faso",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "BF",
+        "flag_url": "https://static.mektoube.fr/flags/BF.png"
+    },
+    {
+        "id": 161,
+        "code": "Guatemala",
+        "default_name": "Guatemala",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "GT",
+        "flag_url": "https://static.mektoube.fr/flags/GT.png"
+    },
+    {
+        "id": 203,
+        "code": "Saint-Christophe-et-Niévès",
+        "default_name": "Saint-Christophe-et-Niévès",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "KN",
+        "flag_url": "https://static.mektoube.fr/flags/KN.png"
+    },
+    {
+        "id": 226,
+        "code": "Canada",
+        "default_name": "Canada",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "CA",
+        "flag_url": "https://static.mektoube.fr/flags/CA.png"
+    },
+    {
+        "id": 227,
+        "code": "Micronesia",
+        "default_name": "Micronesia",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "FM",
+        "flag_url": "https://static.mektoube.fr/flags/FM.png"
+    },
+    {
+        "id": 249,
+        "code": "Saint-Marin",
+        "default_name": "Saint-Marin",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "SM",
+        "flag_url": "https://static.mektoube.fr/flags/SM.png"
+    },
+    {
+        "id": 254,
+        "code": "Ouzbékistan",
+        "default_name": "Ouzbékistan",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "UZ",
+        "flag_url": "https://static.mektoube.fr/flags/UZ.png"
+    },
+    {
+        "id": 3,
+        "code": "Tunisien",
+        "default_name": "Tunisie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "TN",
+        "flag_url": "https://static.mektoube.fr/flags/TN.png"
+    },
+    {
+        "id": 1,
+        "code": "Algérien",
+        "default_name": "Algérie",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "DZ",
+        "flag_url": "https://static.mektoube.fr/flags/DZ.png"
+    },
+    {
+        "id": 2,
+        "code": "Marocain",
+        "default_name": "Maroc",
+        "highlight_countries": [
+            "PK",
+            "TR",
+            "DZ"
+        ],
+        "country_code": "MA",
+        "flag_url": "https://static.mektoube.fr/flags/MA.png"
+    }
+]

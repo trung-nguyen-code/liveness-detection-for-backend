@@ -1,0 +1,60 @@
+{
+	"religious": {
+		"setting_type": true,
+		"score": 10
+	},
+	"salat_pratique": {
+		"setting_type": true,
+		"score": 10
+	},
+	"veil": {
+		"setting_type": true,
+		"score": 10
+	},
+	"eat_halal": {
+		"setting_type": true,
+		"score": 10
+	},
+	"want_children": {
+		"setting_type": true,
+		"score": 20
+	},
+	"has_children": {
+		"setting_type": true,
+		"score": 5
+	},
+	"family_situation": {
+		"setting_type": true,
+		"score": 20
+	},
+	"degree": {
+		"setting_type": true,
+		"score": 10
+	},
+	"fume": {
+		"setting_type": true,
+		"score": 10
+	},
+	"body": {
+		"setting_type": true,
+		"score": 15
+	},
+	"origin": {
+		"setting_type": true,
+		"score": 15
+	},
+	"localisation": {
+		"setting_type": true,
+		"score": 20
+	},
+	"age_score": 40,
+	"age_you_score": 20,
+	"size_score": 30,
+	"push_forward_score": 10,
+	"distance_score": 40,
+	"last_connection_score": 30,
+	"seniority_score": 30,
+	"photos_score": 10,
+	"profile_filling_score": 20,
+	"paging": 10
+}

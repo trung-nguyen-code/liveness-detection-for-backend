@@ -1,0 +1,16 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+google-cloud-storage>=1.42.0,<=1.50.0
+split-folders
+torchsummary
+efficientnet_pytorch
+torch 
+torchvision
+numpy
+pandas
+matplotlib
+opencv-python
+tqdm
+sklearn
+flake8
+black
+tensorboard

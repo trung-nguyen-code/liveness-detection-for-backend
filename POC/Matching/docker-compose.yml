@@ -1,0 +1,39 @@
+version: "3.7"
+services:
+  flask:
+    image: mek/airecsys
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/aimatching
+    ports:
+      - "5559:5555"
+    env_file:
+      - .env
+    depends_on:
+      - ranking-serving
+
+  ranking-serving:
+    image: ranking/serving
+    build:
+      context: .
+      dockerfile: Dockerfile_ranking
+    ports:
+      - "8502:8501"
+  retrieval-serving:
+    image: retrieval/serving
+    build:
+      context: .
+      dockerfile: Dockerfile_retrieval
+    ports:
+      - "8503:8501"
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.11.0
+    environment:
+      - xpack.security.enabled=false
+      - "discovery.type=single-node"
+    volumes:
+      - .esdata1:/usr/share/elasticsearch/data:rw
+    ports:
+      - 9200:9200

@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "dddbase"
+version = "0.1.0"
+description = ""
+authors = ["Harry"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.86.0"
+uvicorn = "^0.19.0"
+pydantic = {extras = ["dotenv"], version = "^1.10.2"}
+fastapi-jwt-auth = "^0.5.0"
+python-dateutil = "^2.8.2"
+easydict = "^1.10"
+numpy = "^1.24.2"
+tqdm = "^4.64.1"
+torchvision = "^0.14.1"
+torch = "^1.13.1"
+Pillow = "^9.4.0"
+tensorboardX = "^2.5.1"
+opencv-python-headless = "4.5.1.48"
+python-multipart = "^0.0.5"
+google-cloud-storage = "^2.7.0"
+
+[tool.poetry.dev-dependencies]
+uvicorn = "^0.19.0"
+pydantic = "^1.10.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

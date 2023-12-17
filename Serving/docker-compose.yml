@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  router:
+    image: router
+    ports:
+      - "5555:5555"
+    depends_on:
+      - tf_serving
+
+  tf_serving:
+    image: tf_serving
+    ports:
+      - "8501:8501"
+      - "8502:8502"

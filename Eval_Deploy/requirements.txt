@@ -1,0 +1,11 @@
+google-cloud-storage>=1.42.0,<=1.50.0
+python-dotenv
+torch
+split-folders
+python-dotenv
+pymongo
+requests
+Pillow
+wandb
+tensorflow
+pandas

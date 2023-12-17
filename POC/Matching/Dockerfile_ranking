@@ -1,0 +1,17 @@
+FROM tensorflow/serving
+
+RUN apt-get update && apt-get install -y python-pip
+
+RUN pip install google-cloud-storage
+
+ADD mek_gs.json /
+
+ADD /downloader.py /
+
+RUN python /downloader.py --credential-path=mek_gs.json --model-name=ranking --model-version=1
+
+WORKDIR /
+
+ENV MODEL_NAME=ranking
+
+EXPOSE 8501

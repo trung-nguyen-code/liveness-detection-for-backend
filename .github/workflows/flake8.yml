@@ -1,0 +1,16 @@
+on: 
+  push:
+    branches-ignore:
+      - '**'
+name: Push
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: tonybajan/flake8-check-action@v1.0.0
+      with:
+        select: E3,E4,E5,E7,E9,W6,F,B,G0
+        maxlinelength: 88
+        repotoken: ${{ secrets.GITHUB_TOKEN }}

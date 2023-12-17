@@ -1,0 +1,21 @@
+FROM google/tf-serving-scann
+
+RUN apt-get update && apt-get install -y python-pip
+
+RUN pip install google-cloud-storage
+
+ADD mek_gs.json /
+
+ADD /downloader.py /
+
+RUN python /downloader.py --credential-path=mek_gs.json --model-name=retrieval_female --model-version=2
+RUN python /downloader.py --credential-path=mek_gs.json --model-name=retrieval_male --model-version=2
+
+ADD /models.config /models/models.config
+RUN printf '#!/bin/bash\ntensorflow_model_server --port=8500 --rest_api_port=8501 --model_name=${MODEL_NAME} --model_base_path=${MODEL_BASE_PATH}/${MODEL_NAME} --model_config_file=${MODEL_CONFIG_FILE} "$@"' > usr/bin/tf_serving_entrypoint.sh
+
+ENV MODEL_CONFIG_FILE=/models/models.config
+
+WORKDIR /
+
+EXPOSE 8501

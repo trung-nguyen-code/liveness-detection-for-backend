@@ -1,0 +1,15 @@
+
+# Logging configuration
+logging:
+  version: 1
+  formatters:
+    common:
+      format: "Common - %(asctime)s - %(levelname)s - %(message)s"
+  handlers:
+    console:
+      class: logging.StreamHandler
+      formatter: common
+      level: DEBUG
+  root:
+    level: DEBUG
+    handlers: [console]

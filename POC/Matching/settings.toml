@@ -1,0 +1,13 @@
+[default]
+
+# Matching models
+RANKING_ENDPOINT = 'http://ranking-serving:8501/v1/models/ranking:predict'
+RETRIEVAL_MALE_ENDPOINT="http://retrieval-serving:8501/v1/models/retrieval_male:predict"
+RETRIEVAL_FEMALE_ENDPOINT="http://retrieval-serving:8501/v1/models/retrieval_female:predict"
+ELASTIC_SEARCH_ENDPOINT="elasticsearch:9200"
+
+# Flask
+FLASK_HOST = '0.0.0.0'
+FLASK_PORT = 5000
+FLASK_DEBUG = false
+
